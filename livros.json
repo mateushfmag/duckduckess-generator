@@ -1,0 +1,86 @@
+{
+  "finalizados": [
+    {
+      "name": "O Nome do Vento",
+      "tag": "o-nome-do-vento",
+      "image": "https://64.media.tumblr.com/910fac1648406da0784c21ad85e150c6/tumblr_inline_rhz45ijPim1vz697u_500.png"
+    },
+    {
+      "name": "O Temor do Sábio",
+      "tag": "o-temor-do-sabio",
+      "image": "https://64.media.tumblr.com/1e1a6be70fc452de4238e8b26b4562ef/tumblr_inline_rhz4w4sTA71vz697u_500.png"
+    },
+    {
+      "name": "A Música do Silêncio",
+      "tag": "a-musica-do-silencio",
+      "image": "https://64.media.tumblr.com/96e7ad11e1730874f15ff650150ccf19/tumblr_inline_rhz5fy9aaT1vz697u_500.png"
+    },
+    {
+      "name": "O Colecionador",
+      "tag": "o-colecionador",
+      "image": "https://64.media.tumblr.com/8d719b3267bdfae8c0bc428dbb6f0791/tumblr_inline_rhz32mZEHY1vz697u_500.png"
+    },
+    {
+      "name": "Fantasmas Não Escrevem Poemas",
+      "tag": "fantasmas-nao-escrevem-poemas",
+      "image": "https://64.media.tumblr.com/3443d132f80a18abc85123ebd22c8c40/tumblr_inline_s1v4qdbfmr1vz697u_500.png"
+    },
+    {
+      "name": "O Demonologista",
+      "tag": "o-demonologista",
+      "image": "https://64.media.tumblr.com/67a97be10efcb779bbd1b3eed3ea9f20/tumblr_inline_rhz52wofjz1vz697u_500.png"
+    },
+    {
+      "name": "O Escaravelho de Ouro",
+      "tag": "o-escaravelho-de-ouro",
+      "image": "https://64.media.tumblr.com/dd5960955dbc4f0bf1a82268cc63fd44/tumblr_inline_rxveme0b471vz697u_500.png"
+    },
+    {
+      "name": "A Guerra da Papoula",
+      "tag": "a-guerra-da-papoula",
+      "image": "https://64.media.tumblr.com/4c8ad0cf0bba92bd3e622117d5b25c89/tumblr_inline_sdfz4vbLHv1vz697u_500.png"
+    },
+    {
+      "name": "A República do Dragão",
+      "tag": "a-republica-do-dragao",
+      "image": "https://m.media-amazon.com/images/I/61bHMCxghFL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "O Pequeno Príncipe",
+      "tag": "o-pequeno-principe",
+      "image": "https://64.media.tumblr.com/e66f9441ef3c397ca41548e6d42a41ba/tumblr_inline_rzf055VklI1vz697u_500.png"
+    }
+  ],
+  "em-progresso": [
+    {
+      "name": "Como Fazer Amigos e Influenciar Pessoas",
+      "tag": "como-fazer-amigos-e-influenciar-pessoas",
+      "image": "https://palestrasdesucesso.com.br/wp-content/uploads/2021/03/Como-fazer-amigos-e-influenciar-pessoas.jpg"
+    },
+    {
+      "name": "Band of Brothers",
+      "tag": "band-of-brothers",
+      "image": "https://m.media-amazon.com/images/I/61tfBmVghlL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "A Cientista que Curou seu Próprio Cérebro",
+      "tag": "a-cientista-que-curou-seu-proprio-cerebro",
+      "image": "https://64.media.tumblr.com/5007031a7cd4a21f945d3f212741bf4a/tumblr_inline_s3b4cpUdoO1vz697u_500.png"
+    },
+    {
+      "name": "A Guerra dos Tronos",
+      "tag": "a-guerra-dos-tronos",
+      "image": "https://64.media.tumblr.com/33c34366f8a826c82659755e56f7b1a8/tumblr_inline_ridql3DHnV1vz697u_500.png"
+    },
+    {
+      "name": "A Lista Negra",
+      "tag": "a-lista-negra",
+      "image": "https://64.media.tumblr.com/c530d2f93622cae1e3d2475cab3cb0ed/tumblr_inline_rzf08bzK8T1vz697u_500.png"
+    },
+    {
+      "name": "Anjos e Demônios",
+      "tag": "anjos-e-demonios",
+      "image": "https://64.media.tumblr.com/2cd8a82050b6157e3d4304413e06e53a/tumblr_inline_ryabxmZvcG1vz697u_500.png"
+    }
+  ]
+}
