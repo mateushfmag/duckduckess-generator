@@ -49,13 +49,18 @@
       "name": "O Pequeno Príncipe",
       "tag": "o-pequeno-principe",
       "image": "https://64.media.tumblr.com/e66f9441ef3c397ca41548e6d42a41ba/tumblr_inline_rzf055VklI1vz697u_500.png"
-    }
-  ],
-  "em-progresso": [
+    },
     {
       "name": "O Jogo da Morte",
       "tag": "o-jogo-da-morte",
       "image": "https://m.media-amazon.com/images/I/71xt1BtYBUL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ],
+  "em-progresso": [
+    {
+      "name": "A Biblioteca da Meia Noite",
+      "tag": "a-biblioteca-da-meia-noite",
+      "image": "https://m.media-amazon.com/images/I/81iqH8dpjuL.jpg"
     },
     {
       "name": "Como Fazer Amigos e Influenciar Pessoas",
